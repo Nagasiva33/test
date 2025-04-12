@@ -1,0 +1,3 @@
+badvel, hyderabad
+chennai, mumbai
+kadapa, goa
